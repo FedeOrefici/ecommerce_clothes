@@ -5,11 +5,9 @@ import { BrowserRouter, Routes, Route } from "react-router-dom"
 import Home from "./pages/Home"
 import ProductDetail from "./pages/ProductDetail"
 //import components
-import CartItem from "./components/CArtItem"
 import Footer from "./components/Footer"
 import Header from "./components/Header"
-import Hero from "./components/Hero"
-import Product from "./components/Product"
+
 import Sidebar from "./components/Sidebar"
 
 function App() {
